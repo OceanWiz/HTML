@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Earth</title>
+  <style>
+    .section1 {
+      text-align: center;
+      color: white;
+      font-size: 18pt;
+      font-weight: bold;
+      padding: 20px;
+      margin-left: 400px;
+      margin-right: 400px;
+      margin-bottom: 100px;
+      margin-top: 100px;
+      border: 10px solid white;
+    }
+    .section2 {
+      color: white;
+      text-align: center;
+      font-size: 18pt;
+      font-weight: bold;
+      padding: 20px;
+      margin-left: 400px;
+      margin-right: 400px;
+      border: 10px solid white;
+    }
+    .heading {
+      text-align: center;
+      font-size: 100pt;
+      color: #008080;
+      padding: 25px; 
+      margin-bottom: 20px; 
+      height: 120px;
+    }
+  </style>
+</head>
+<body>
+  <div style="background: grey;">
+  <h1 class="heading">Earth</h1>
+    
+    <div class="section1">
+         <p>
+           Here's what our Earth looks like in space:
+      </p>
+  <img src="https://cdn.mos.cms.futurecdn.net/yCPyoZDQBBcXikqxkeW2jJ-1200-80.jpg" alt="Earth" style="margin-top: 15px; width: 300px;"/>
+  </div>
+    <a href="https://www.google.com">Click here to review the Earth</a>
+<div class="section2">
+    <p>
+      Its surface looks like this:
+  </p>
+
+    <img src="https://www.sciencea-z.com/shared/images/units/earth-s-surface.jpg" alt="Land" style="margin-top: 15px; width: 350px;"/>
+</div>
+  </div>
+</body>
